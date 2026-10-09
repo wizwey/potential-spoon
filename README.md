@@ -1,7 +1,7 @@
 # potential-spoon
 针对安徽工业大学校园网每次需要操作联网的自动化脚本与程序
-首次使用
 --------
+首次使用：
 1. 把 AHUT_WiFi_AutoLogin.exe 放到你想安装的文件夹（建议放在不容易被误删的位置，
    例如 D:\Tools\AHUT_WiFi）。
 
